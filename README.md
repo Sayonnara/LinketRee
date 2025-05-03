@@ -12,4 +12,3 @@ A proposta é facilitar o acesso ao meu trabalho, demonstrar minhas habilidades 
 
 
 
-![Uploading linktree.png…]()
